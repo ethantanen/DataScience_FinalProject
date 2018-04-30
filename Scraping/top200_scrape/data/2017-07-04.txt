@@ -1,0 +1,201 @@
+Position,"Track Name",Artist,Streams,URL
+1,"Despacito - Remix","Luis Fonsi",1604006,https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+2,"I'm the One","DJ Khaled",1324235,https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817
+3,"XO TOUR Llif3","Lil Uzi Vert",1268502,https://open.spotify.com/track/2eMwDehkIC1j68U6FA3Eiq
+4,"Wild Thoughts","DJ Khaled",1262068,https://open.spotify.com/track/1OAh8uOEOvTDqkKFsKksCi
+5,HUMBLE.,"Kendrick Lamar",1142272,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+6,Unforgettable,"French Montana",1034000,https://open.spotify.com/track/1F2HXIJrE2Xn81OzT2zZvW
+7,Congratulations,"Post Malone",943714,https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9
+8,Slide,"Calvin Harris",865381,https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl
+9,Location,Khalid,845483,https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif
+10,"That's What I Like","Bruno Mars",838677,https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU
+11,Redbone,"Childish Gambino",807684,https://open.spotify.com/track/3kxfsdsCpFgN412fpnW85Y
+12,"Body Like A Back Road","Sam Hunt",791147,https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO
+13,Feels,"Calvin Harris",736049,https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke
+14,Signs,Drake,724125,https://open.spotify.com/track/6Na5uKk5SsqZimk0hAWo8y
+15,"Mask Off",Future,723187,https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8
+16,"2U (feat. Justin Bieber)","David Guetta",715693,https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M
+17,DNA.,"Kendrick Lamar",714655,https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
+18,Magnolia,"Playboi Carti",690013,https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl
+19,"Strip That Down","Liam Payne",678423,https://open.spotify.com/track/6EpRaXYhGOB3fj4V2uDkMJ
+20,Rollin,"Calvin Harris",672695,https://open.spotify.com/track/0lMbuWUpfTWhEmOKxppEau
+21,Thunder,"Imagine Dragons",669565,https://open.spotify.com/track/0tKcYR2II1VCQWT79i5NrW
+22,"Shape of You","Ed Sheeran",663482,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+23,Believer,"Imagine Dragons",651207,https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6
+24,1-800-273-8255,Logic,620736,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+25,Attention,"Charlie Puth",617394,https://open.spotify.com/track/4iLqG9SeJSnt0cSPICSjxv
+26,"Butterfly Effect","Travis Scott",607317,https://open.spotify.com/track/1yxgsra98r3qAtxqiGZPiX
+27,goosebumps,"Travis Scott",604951,https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2
+28,"Stay (with Alessia Cara)",Zedd,604875,https://open.spotify.com/track/0dA2Mk56wEzDgegdC6R17g
+29,"Slippery (feat. Gucci Mane)",Migos,585403,https://open.spotify.com/track/6p8NuHm8uCGnn2Dtbtf7zE
+30,"Bad Liar","Selena Gomez",566784,https://open.spotify.com/track/1sCxVKWImDZSZKvG0U9B23
+31,Passionfruit,Drake,541252,https://open.spotify.com/track/7hDc8b7IXETo14hHIHdnhd
+32,"Something Just Like This","The Chainsmokers",536705,https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW
+33,"LOVE. FEAT. ZACARI.","Kendrick Lamar",529271,https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As
+34,"Drowning (feat. Kodak Black)","A Boogie Wit da Hoodie",526985,https://open.spotify.com/track/6Q2FftbUG530lCtBI74bMH
+35,"Now Or Never",Halsey,520854,https://open.spotify.com/track/0Nhu3zSYbEz32IYiobV75e
+36,"iSpy (feat. Lil Yachty)",KYLE,496160,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL
+37,"4 AM","2 Chainz",483773,https://open.spotify.com/track/1nX9KhK3Fff27SnrIor2Yb
+38,"Slow Hands","Niall Horan",465912,https://open.spotify.com/track/167NczpNbRF7oWakJaY3Hh
+39,"There's Nothing Holdin' Me Back","Shawn Mendes",461213,https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu
+40,"Party In The U.S.A.","Miley Cyrus",459918,https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1
+41,"There for You","Martin Garrix",449190,https://open.spotify.com/track/6jA8HL9i4QGzsj6fjoxp8Y
+42,"No Complaints","Metro Boomin",443881,https://open.spotify.com/track/6kig1UFggPUyZBCvXD3Wod
+43,"Despacito (Featuring Daddy Yankee)","Luis Fonsi",417635,https://open.spotify.com/track/4aWmUDTfIPGksMNLV2rQP2
+44,"I Like Me Better",Lauv,409825,https://open.spotify.com/track/1wjzFQodRWrPcQ0AnYnvQ9
+45,"LOYALTY. FEAT. RIHANNA.","Kendrick Lamar",408637,https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n
+46,"It's A Vibe","2 Chainz",405803,https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6
+47,Portland,Drake,394701,https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h
+48,"Tunnel Vision","Kodak Black",389653,https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4
+49,"Know No Better (feat. Travis Scott, Camila Cabello & Quavo)","Major Lazer",382222,https://open.spotify.com/track/3Ytr1SUCUi6J3L9dRFx5iH
+50,Closer,"The Chainsmokers",381462,https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw
+51,"Bounce Back","Big Sean",376011,https://open.spotify.com/track/0SGkqnVQo9KPytSri1H6cF
+52,"One Dance",Drake,366503,https://open.spotify.com/track/1xznGGDReH1oQq0xzbwXa3
+53,T-Shirt,Migos,363016,https://open.spotify.com/track/7KOlJ92bu51cltsD9KU5I7
+54,Mama,"Jonas Blue",359122,https://open.spotify.com/track/4xlrALxuaCf9yZBHJeTSG6
+55,Issues,"Julia Michaels",349852,https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt
+56,Malibu,"Miley Cyrus",333822,https://open.spotify.com/track/2habSXqcJGExM6JJyskY7O
+57,"Bad and Boujee (feat. Lil Uzi Vert)",Migos,329732,https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR
+58,"More Than You Know","Axwell /\ Ingrosso",328579,https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz
+59,"Crying in the Club","Camila Cabello",327242,https://open.spotify.com/track/1SJtlNRJDeYHioymcvsqev
+60,"Young Dumb & Broke",Khalid,324400,https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY
+61,Ride,"Twenty One Pilots",323894,https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW
+62,"It Ain't Me (with Selena Gomez)",Kygo,321092,https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe
+63,"First Time",Kygo,318701,https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr
+64,wokeuplikethis*,"Playboi Carti",311233,https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt
+65,Swang,"Rae Sremmurd",308664,https://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL
+66,"No Promises (feat. Demi Lovato)","Cheat Codes",304370,https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW
+67,"Swalla (feat. Nicki Minaj & Ty Dolla $ign)","Jason Derulo",301571,https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF
+68,"Look At Me!",XXXTENTACION,299080,https://open.spotify.com/track/4ARPvK8DHLwt4oX65ZAFMw
+69,"Love Galore",SZA,295936,https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs
+70,ELEMENT.,"Kendrick Lamar",294915,https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG
+71,"Fake Love",Drake,293549,https://open.spotify.com/track/343YBumqHu19cGoGARUTsd
+72,"Craving You","Thomas Rhett",289769,https://open.spotify.com/track/6zLdXcmvIxnAXpz9sXFnIE
+73,"Mi Gente","J Balvin",287593,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+74,Rolex,"Ayo & Teo",285529,https://open.spotify.com/track/0pSBuHjILhNEo55xK1zrRt
+75,"Sweet Home Alabama","Lynyrd Skynyrd",283109,https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb
+76,"Say You Won't Let Go","James Arthur",280212,https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh
+77,"do re mi",Blackbear,278912,https://open.spotify.com/track/3Q3myFA7q4Op95DOpHplaY
+78,"Born In The U.S.A.","Bruce Springsteen",277905,https://open.spotify.com/track/310epXrlbXmfGcD1qSdgVV
+79,"Broccoli (feat. Lil Yachty)",DRAM,271664,https://open.spotify.com/track/7yyRTcZmCiyzzJlNzGC9Ol
+80,"Don't Let Me Down","The Chainsmokers",271329,https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm
+81,"Met Gala (feat. Offset)","Gucci Mane",269338,https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK
+82,Gyalchester,Drake,269295,https://open.spotify.com/track/6UjfByV1lDLW0SOVQA4NAi
+83,"Nights With You",MØ,265646,https://open.spotify.com/track/5q5gzmbBS5yQzos2BvVr1t
+84,"Shake It Off","Taylor Swift",265045,https://open.spotify.com/track/0cqRj7pUJDkTCEsJkx8snD
+85,"First Day Out","Tee Grizzley",264845,https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z
+86,"Most Girls","Hailee Steinfeld",261457,https://open.spotify.com/track/2mfUa8bLs2s5N4VaqJZ4lZ
+87,Weak,AJR,259368,https://open.spotify.com/track/3E2Zh20GDCR9B1EYjfXWyv
+88,Starboy,"The Weeknd",252890,https://open.spotify.com/track/5aAx2yezTd8zXrkmtKl66Z
+89,Hurricane,"Luke Combs",252601,https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1
+90,"Young, Wild & Free (feat. Bruno Mars)","Snoop Dogg",249611,https://open.spotify.com/track/6YbhspuOar1D9WSSnfe7ds
+91,"Pretty Girl - Cheat Codes X CADE Remix","Maggie Lindemann",247224,https://open.spotify.com/track/1NDxZ7cFAo481dtYWdrUnR
+92,"Ain't No Mountain High Enough","Marvin Gaye",247099,https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR
+93,Down,"Fifth Harmony",245401,https://open.spotify.com/track/7LEydI5NfjY6mZfKwYIptZ
+94,"Whatever It Takes","Imagine Dragons",245109,https://open.spotify.com/track/4IWAyPf1KMq7JCyGeCjTeH
+95,"No Problem (feat. Lil Wayne & 2 Chainz)","Chance The Rapper",243406,https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH
+96,"911 / Mr. Lonely","Tyler, The Creator",239228,https://open.spotify.com/track/1pGAvZo2axYXAXYiSeYEqY
+97,"Felices los 4",Maluma,237172,https://open.spotify.com/track/0qYTZCo5Bwh1nsUFGZP3zn
+98,"Chicken Fried","Zac Brown Band",232053,https://open.spotify.com/track/4dGJf1SER1T6ooX46vwzRB
+99,"White Iverson","Post Malone",228636,https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w
+100,"24K Magic","Bruno Mars",227856,https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P
+101,"Cheap Thrills",Sia,225488,https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j
+102,"Two High","Moon Taxi",224541,https://open.spotify.com/track/3sJHkcxojoJD2Ytbo1yLLF
+103,"Money Longer","Lil Uzi Vert",224365,https://open.spotify.com/track/0B8QzDH7YWih85V5SEMnyJ
+104,"Swish Swish","Katy Perry",224184,https://open.spotify.com/track/2kVHAQKVtczchKctctzbtK
+105,"pick up the phone","Young Thug",223214,https://open.spotify.com/track/20dP2DaMHIAmwWAbp7peSr
+106,Caroline,Aminé,220421,https://open.spotify.com/track/5GFDrUTLGJix84sNhjCG0g
+107,"Everyday We Lit (feat. PnB Rock)","YFN Lucci",219827,https://open.spotify.com/track/4PzovBqgnSHKd8opsP7IVM
+108,"Extra Luv",Future,219777,https://open.spotify.com/track/1tlBuoIRrtqFs9bE9dmli5
+109,Neighbors,"J. Cole",219086,https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy
+110,"Don't Quit","DJ Khaled",218897,https://open.spotify.com/track/4vv1KjUzPwrtDbozizSfQc
+111,"Losin Control",Russ,217351,https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d
+112,"High Without Your Love",Loote,216864,https://open.spotify.com/track/7qs2GAglLWfxEfmO8u2u0A
+113,"Your Song","Rita Ora",216778,https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5
+114,"Let Me Love You","DJ Snake",214867,https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m
+115,"Brown Eyed Girl","Van Morrison",214719,https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul
+116,"Sign of the Times","Harry Styles",214717,https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+117,"God, Your Mama, And Me","Florida Georgia Line",212815,https://open.spotify.com/track/4VFE6ZNqa8jHAmbYICoAFg
+118,"X (feat. Future)","21 Savage",212761,https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO
+119,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",ZAYN,211413,https://open.spotify.com/track/3NdDpSvN911VPGivFlV5d0
+120,"Go Flex","Post Malone",211312,https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ
+121,"Homemade Dynamite",Lorde,210673,https://open.spotify.com/track/12o6dxWGk29uIAP3OWY0pM
+122,"I Feel It Coming","The Weeknd",210152,https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt
+123,"In Case You Didn't Know","Brett Young",209049,https://open.spotify.com/track/10M2Ex445zw585Ducldzkw
+124,"Light It Up (feat. Nyla & Fuse ODG) - Remix","Major Lazer",209026,https://open.spotify.com/track/0L7loeTIg6akW84aEQZpCT
+125,"beibs in the trap","Travis Scott",208528,https://open.spotify.com/track/0ESJlaM8CE1jRWaNtwSNj8
+126,"Small Town Boy","Dustin Lynch",207723,https://open.spotify.com/track/045SnNDjOfOLKM5OxARH4g
+127,"Prayers Up","Calvin Harris",206985,https://open.spotify.com/track/4KaIJ1FWXUoAAnOts1YWjD
+128,Firework,"Katy Perry",206093,https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt
+129,"You Was Right","Lil Uzi Vert",205056,https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M
+130,Starships,"Nicki Minaj",201813,https://open.spotify.com/track/1oHNvJVbFkexQc0BpQp7Y4
+131,PRBLMS,6LACK,200781,https://open.spotify.com/track/2wf9bp4MkChojtljddWpbO
+132,Paris,"The Chainsmokers",199653,https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG
+133,"No Role Modelz","J. Cole",198764,https://open.spotify.com/track/62vpWI1CHwFy7tMIcSStl8
+134,"Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)","Mike WiLL Made-It",196423,https://open.spotify.com/track/3A2OHirUAlQp2x73BJlEDA
+135,"Stressed Out","Twenty One Pilots",196193,https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn
+136,"Relationship (feat. Future)","Young Thug",195053,https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg
+137,"Mask Off - Remix",Future,194643,https://open.spotify.com/track/6dVZCbi9CYtD9LjAHXRjIG
+138,"Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)","PnB Rock",194091,https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR
+139,"What They Want",Russ,193482,https://open.spotify.com/track/3pndPhlQWjuSoXhcIIdBjv
+140,"Jump Out The Window","Big Sean",192842,https://open.spotify.com/track/1jQsKN68yE94tMYml0wHMd
+141,"Low Life",Future,192833,https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX
+142,"Rich Girl","Daryl Hall & John Oates",192704,https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX
+143,"Courtesy Of The Red, White And Blue (The Angry American)","Toby Keith",191443,https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa
+144,"Black Beatles","Rae Sremmurd",191189,https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo
+145,"Escápate Conmigo",Wisin,190729,https://open.spotify.com/track/2cnKEkpVUSV4wnjQiTWfH6
+146,"Die A Happy Man","Thomas Rhett",189741,https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n
+147,"Good Drank","2 Chainz",189404,https://open.spotify.com/track/39pS70eeDvyCAF3t8NAlVV
+148,Selfish,Future,189318,https://open.spotify.com/track/2Ce5IyMlVRVvN997ZJjJJA
+149,"Hey Ya! - Radio Mix / Club Mix",OutKast,189190,https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM
+150,"No Vacancy",OneRepublic,188714,https://open.spotify.com/track/6XOYVSmNDjKUNMXooU4s4z
+151,"Both (feat. Drake)","Gucci Mane",188330,https://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux
+152,H.O.L.Y.,"Florida Georgia Line",186123,https://open.spotify.com/track/0BCy325UZyR9z0t0uxwn2N
+153,"To the Max","DJ Khaled",186119,https://open.spotify.com/track/2of5xn0GU0TdFneR1saRLH
+154,"Candy Paint","Post Malone",185364,https://open.spotify.com/track/4wdZdkEugVVorAfzqRqC6N
+155,"XXX. FEAT. U2.","Kendrick Lamar",184287,https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF
+156,Moves,"Big Sean",184158,https://open.spotify.com/track/0Fv5N0cHBsl4bzCbollCAS
+157,"Who Dat Boy","Tyler, The Creator",183566,https://open.spotify.com/track/1a0wEEHipnBR7WOHFA6ucQ
+158,"Blank Space","Taylor Swift",183031,https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g
+159,"Castle on the Hill","Ed Sheeran",182070,https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT
+160,"Congratulations - Remix","Post Malone",181341,https://open.spotify.com/track/2YK01AIIWuywG24gsbuizE
+161,"Don't Wanna Know","Maroon 5",180756,https://open.spotify.com/track/5MFzQMkrl1FOOng9tq6R9r
+162,"Cash Out","Calvin Harris",179452,https://open.spotify.com/track/0Ws8D3EWUDgY962Xftb0h5
+163,"Uptown Funk","Mark Ronson",179402,https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS
+164,"Hometown Girl","Josh Turner",178194,https://open.spotify.com/track/5C6uh95eAL0RBTSGXKQwvk
+165,"I Want You Back","The Jackson 5",177859,https://open.spotify.com/track/3b0EOvScbZUc0qJx0E1L2z
+166,"Flex Like Ouu","Lil Pump",177766,https://open.spotify.com/track/3kkObn08oHrNmCFHSNR0jD
+167,"Faking It","Calvin Harris",177462,https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf
+168,"What Ifs","Kane Brown",176478,https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W
+169,"From The D To The A (feat. Lil Yachty)","Tee Grizzley",175308,https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2
+170,"Can't Feel My Face","The Weeknd",174924,https://open.spotify.com/track/6RsWqX8zABZLhZydXxEFOm
+171,"Symphony (feat. Zara Larsson)","Clean Bandit",174084,https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8
+172,PIE,Future,174020,https://open.spotify.com/track/0NZUqq4iLQddokgtiC44Kb
+173,Starving,"Hailee Steinfeld",173378,https://open.spotify.com/track/1qOLh0tI7trd1zdDKxYZTe
+174,Reminder,"The Weeknd",172901,https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI
+175,Heatstroke,"Calvin Harris",172316,https://open.spotify.com/track/60APt5N2NRaKWf5xzJdzyC
+176,Everybody,Logic,172280,https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM
+177,"Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix","Lana Del Rey",171757,https://open.spotify.com/track/6D5pfooPP6hi99RaXjkDsP
+178,"Feel It Still","Portugal. The Man",171518,https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK
+179,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")","Justin Timberlake",170572,https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc
+180,"Fortunate Son","Creedence Clearwater Revival",169503,https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh
+181,"Chill Bill","Rob $tone",169315,https://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp
+182,"Thrift Shop (feat. Wanz)","Macklemore & Ryan Lewis",169182,https://open.spotify.com/track/3AYcyxEACnmE6d96RPubID
+183,"Skateboard P (feat. Big Sean)",MadeinTYO,168920,https://open.spotify.com/track/07pJdL0L9XDGW0HBj0rIS2
+184,Myself,NAV,168818,https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN
+185,Don't,"Bryson Tiller",168269,https://open.spotify.com/track/3pXF1nA74528Edde4of9CC
+186,"Get Right Witcha",Migos,166673,https://open.spotify.com/track/76Y0gxtTxN0FyDCYh5qYQj
+187,"Can I Be Him","James Arthur",166635,https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX
+188,Selfish,"PnB Rock",166341,https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw
+189,"Hymn For The Weekend - Seeb Remix",Coldplay,166230,https://open.spotify.com/track/1OAiWI2oPmglaOiv9fdioU
+190,Trumpets,"Jason Derulo",166027,https://open.spotify.com/track/6jizk5lOUnfpaZXYMdfeC6
+191,"Ignition - Remix","R. Kelly",165653,https://open.spotify.com/track/5dNfHmqgr128gMY2tc5CeJ
+192,"Love On The Brain",Rihanna,165181,https://open.spotify.com/track/2aksifNn5ph8igDOkPBA02
+193,"Run Me Dry","Bryson Tiller",164853,https://open.spotify.com/track/5GG3knKdxKWrNboRijxeKF
+194,"No Heart","21 Savage",164847,https://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO
+195,"Rake It Up","Yo Gotti",163872,https://open.spotify.com/track/1aGOdZZE1uE0m3UYjcl3CP
+196,"The Cure","Lady Gaga",163850,https://open.spotify.com/track/51PIvodunv6NmX5250zxAh
+197,"You Make My Dreams - Remastered","Daryl Hall & John Oates",163517,https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk
+198,"House Party","Sam Hunt",163471,https://open.spotify.com/track/2FviG1Ma0M0BSZbqaDvw0x
+199,Exchange,"Bryson Tiller",162799,https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN
+200,"Begin (feat. Wales)",Shallou,162310,https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz

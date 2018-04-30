@@ -3,7 +3,7 @@
 a="https://spotifycharts.com/regional/us/daily/"
 b="/download"
 
-for i in $(cat dates.txt)
+for i in $(cat datess.txt)
 do
     echo $a$i$b
     wget -O "data/"$i".txt" $a$i$b

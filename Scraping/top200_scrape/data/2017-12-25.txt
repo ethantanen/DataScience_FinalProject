@@ -1,0 +1,201 @@
+Position,"Track Name",Artist,Streams,URL
+1,"All I Want for Christmas Is You","Mariah Carey",2075827,https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn
+2,"Rockin' Around The Christmas Tree - Single Version","Brenda Lee",1638633,https://open.spotify.com/track/3T7dNA7O8c3Axj5WyDNcH3
+3,"Jingle Bell Rock","Bobby Helms",1344745,https://open.spotify.com/track/1cImYkHOQMFE7AZC9aOk4y
+4,"Last Christmas",Wham!,1338226,https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78
+5,"It's the Most Wonderful Time of the Year","Andy Williams",1327102,https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN
+6,"Christmas Time Is Here - Vocal","Vince Guaraldi Trio",1314442,https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0
+7,"A Holly Jolly Christmas - Single Version","Burl Ives",1238100,https://open.spotify.com/track/65Q2mv3UlVi9eO70OpsmSe
+8,"White Christmas","Bing Crosby",1234622,https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW
+9,"Do They Know It's Christmas? - 1984 Version","Band Aid",1198454,https://open.spotify.com/track/1hvpDAxZPKjKztOc72sv06
+10,rockstar,"Post Malone",1176450,https://open.spotify.com/track/7wGoVu4Dady5GV0Sv4UIsx
+11,"The Christmas Song (Merry Christmas To You)","Nat King Cole",1165802,https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2
+12,"Let It Snow! Let It Snow! Let It Snow!","Frank Sinatra",1158727,https://open.spotify.com/track/7inXu0Eaeg02VsM8kHNvzM
+13,"Winter Wonderland","Bing Crosby",1048504,https://open.spotify.com/track/5VEuraNSVxMTzDTtrmL3lQ
+14,"Blue Christmas","Elvis Presley",1031758,https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ
+15,"Feliz Navidad","José Feliciano",949326,https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS
+16,"Carol of the Bells","Mykola Dmytrovych Leontovych",932957,https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI
+17,"It's Beginning to Look a Lot Like Christmas","Perry Como",930081,https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE
+18,"Run Rudolph Run - Single Version","Chuck Berry",867729,https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ
+19,"Have Yourself A Merry Little Christmas - ""Meet Me In St. Louis"" Original Cast Recording","Judy Garland",848672,https://open.spotify.com/track/4eqne0oIdt9GW2ubiliny0
+20,"Rudolph The Red-Nosed Reindeer","Burl Ives",843539,https://open.spotify.com/track/4hXAK3mjFVFOOiJQ3rKAXi
+21,"Happy Xmas (War Is Over) - 2010 Digital Remaster","John Lennon",820677,https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy
+22,"Santa Baby","Eartha Kitt",819870,https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO
+23,"Gucci Gang","Lil Pump",787271,https://open.spotify.com/track/43ZyHQITOjhciSUUNPVRHc
+24,"Wonderful Christmastime - Remastered 2011 / Edited Version","Paul McCartney",782486,https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7
+25,"Silver Bells","Dean Martin",768979,https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0
+26,"It's Beginning To Look A Lot Like Christmas","Michael Bublé",748423,https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI
+27,"Little Saint Nick","The Beach Boys",741338,https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM
+28,"Joy To The World","Nat King Cole",717751,https://open.spotify.com/track/3eLWJ29j2FGM91T7aGlHHW
+29,"Do You Hear What I Hear?","Bing Crosby",713320,https://open.spotify.com/track/4EZUcj7c8n9pWIwHqN0DoH
+30,"Mele Kalikimaka - Single Version","Bing Crosby",697813,https://open.spotify.com/track/6UrKVLhzBYZY6fXmNyCLDi
+31,"The First Noel - 1999 - Remaster","Frank Sinatra",695171,https://open.spotify.com/track/6keKIzkXWdbwJWMBJQUwYl
+32,"Mistletoe And Holly - 1999 - Remaster","Frank Sinatra",692478,https://open.spotify.com/track/7faDzZnZYqTyYThx2sbHVQ
+33,"Here Comes Santa Claus (Right Down Santa Claus Lane)","Gene Autry",689630,https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo
+34,"I Fall Apart","Post Malone",682947,https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh
+35,"Santa Tell Me","Ariana Grande",675537,https://open.spotify.com/track/1ADjWm8QNhgNV8yCNNgQ1T
+36,"Sleigh Ride",Carpenters,674259,https://open.spotify.com/track/597IVBYr60vm0HKjgOnztJ
+37,"You're A Mean One, Mr. Grinch - From Dr. Seuss' 'How The Grinch Stole Christmas'","Thurl Ravenscroft",669042,https://open.spotify.com/track/6Tof6kPUc2a17GKaKz4IXz
+38,"Bartier Cardi (feat. 21 Savage)","Cardi B",655009,https://open.spotify.com/track/75FDPwaULRdYDn4StFN2rT
+39,"Ric Flair Drip (& Metro Boomin)",Offset,627746,https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR
+40,"No Limit",G-Eazy,622953,https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW
+41,"Baby, It's Cold Outside","Dean Martin",620263,https://open.spotify.com/track/4MrfQL4TYQXJBlZYpAHTuE
+42,"The Little Drummer Boy","Bing Crosby",603558,https://open.spotify.com/track/2zHu4GAsQIw2skGszWEMFY
+43,Mistletoe,"Justin Bieber",603536,https://open.spotify.com/track/32OWobmyAz8J2qA8iWekyS
+44,"Candy Paint","Post Malone",571437,https://open.spotify.com/track/42CeaId2XNlxugDvyqHfDf
+45,Havana,"Camila Cabello",569679,https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb
+46,"Bank Account","21 Savage",568861,https://open.spotify.com/track/2fQrGHiQOvpL9UgPvtYy6G
+47,"XO TOUR Llif3","Lil Uzi Vert",568049,https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO
+48,"Merry Christmas Darling - Album Version/Remix",Carpenters,563619,https://open.spotify.com/track/1QXg7pVx5hpAZWw8KIAcGw
+49,"Him & I (with Halsey)",G-Eazy,551676,https://open.spotify.com/track/5k38wzpLb15YgncyWdTZE4
+50,"Sleigh Ride","Andy Williams",549908,https://open.spotify.com/track/5ymVfeMK8cDew5vzntTuc7
+51,"Silent Night",Carpenters,549643,https://open.spotify.com/track/0i7lZhEMEheehKyCtBJIIL
+52,"The Man With The Bag","Kay Starr",537069,https://open.spotify.com/track/56dllQaFZBw3SPTiKZvqYH
+53,"All I Want For Christmas (Is My Two Front Teeth) - 1990 - Remaster","Nat King Cole Trio",530252,https://open.spotify.com/track/4FQJyi8gnbhKy623wNx6Ps
+54,"Holly Jolly Christmas","Michael Bublé",520217,https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE
+55,"The Happiest Christmas Tree","Nat King Cole",509904,https://open.spotify.com/track/4WN9xLkAeINLPLaoeZ9ZW9
+56,MotorSport,Migos,504235,https://open.spotify.com/track/1YZfcVLbbJwfizR5cDOp3q
+57,"I'll Be Home For Christmas - Single Version","Bing Crosby",500079,https://open.spotify.com/track/4RppWtszgz5gPVOKUQazCH
+58,"PICK IT UP (feat. A$AP Rocky)","Famous Dex",490829,https://open.spotify.com/track/3ncgNpxLoBQ65ABk4djDyd
+59,"Too Good At Goodbyes","Sam Smith",489235,https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV
+60,"What Child Is This?/The Holly And The Ivy (Medley)","Bing Crosby",486653,https://open.spotify.com/track/6ScCr1C4VIFzulq8bP65mj
+61,"Here We Come a-Caroling / We Wish You a Merry Christmas","Perry Como",486568,https://open.spotify.com/track/4LUAIXN6bpnEVaJZOLfuDt
+62,"Fairytale of New York (feat. Kirsty MacColl)","The Pogues",482832,https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK
+63,"Medley: Caroling, Caroling / The First Noel / Hark! The Herald Angels Sing / Silent Night","Perry Como",480914,https://open.spotify.com/track/5D30yNI3b0HAuaBWAGOImI
+64,"Driving Home For Christmas","Chris Rea",479454,https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY
+65,"River (feat. Ed Sheeran)",Eminem,474627,https://open.spotify.com/track/5UEnHoDYpsxlfzWLZIc7LD
+66,"Dominick The Donkey (The Italian Christmas Donkey) [With Joe Reisman's Orchestra and Chorus]","Lou Monte",471979,https://open.spotify.com/track/1BB9hv4471pPlNqOAnDglV
+67,Congratulations,"Post Malone",469815,https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9
+68,"O Christmas Tree","Tony Bennett",463274,https://open.spotify.com/track/2VsCE6ui7N4IRzGIGT7Di8
+69,"Hark! The Herald Angels Sing/It Came Upon A Midnight Clear (Medley) - 24-Bit Digitally Remastered 99","Bing Crosby",463252,https://open.spotify.com/track/59g1IKRYrCBsYLdd0WhKus
+70,Perfect,"Ed Sheeran",463187,https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v
+71,"Let You Down",NF,462083,https://open.spotify.com/track/6mrKP2jyIQmM0rw6fQryjr
+72,"God Rest Ye Merry Gentlemen - Single Version","Bing Crosby",461896,https://open.spotify.com/track/1uPEDUtTJZOkj7CjGDtZGv
+73,1-800-273-8255,Logic,449492,https://open.spotify.com/track/5tz69p7tJuGPeMGwNTxYuV
+74,"Santa Claus Is Coming To Town","The Jackson 5",442724,https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z
+75,"Have Yourself A Merry Little Christmas","Sam Smith",442578,https://open.spotify.com/track/7Hz6LLOVxrojLPIHJJ1S0E
+76,"The Christmas Waltz","Peggy Lee",442354,https://open.spotify.com/track/4DV9KToOaC0khx2MqOZstE
+77,"Christmas Time","The Platters",438370,https://open.spotify.com/track/2345kZ5rt8eHjO8CFpx3Yi
+78,"Twelve Days Of Christmas - Single Version","Bing Crosby",437891,https://open.spotify.com/track/4Zo33RKIwOIiVsZZtXsKU4
+79,"Codeine Dreaming (feat. Lil Wayne)","Kodak Black",436909,https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J
+80,"We Wish You A Merry Christmas","John Denver",435600,https://open.spotify.com/track/6h3MR7BSXsxUgypreO85Mp
+81,"LOVE. FEAT. ZACARI.","Kendrick Lamar",434875,https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As
+82,"O Little Town of Bethlehem","Elvis Presley",432852,https://open.spotify.com/track/6Ai7PiAjnb4eIiC05By0i4
+83,"Plain Jane","A$AP Ferg",431439,https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9
+84,"O Tannenbaum","Nat King Cole",431127,https://open.spotify.com/track/2nWeF8M4XwOdIEUK8q1kTj
+85,Hallelujah,Pentatonix,430777,https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx
+86,"Bodak Yellow","Cardi B",420108,https://open.spotify.com/track/2771LMNxwf62FTAdpJMQfM
+87,HUMBLE.,"Kendrick Lamar",416437,https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
+88,"Young Dumb & Broke",Khalid,412644,https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY
+89,"Let's Start The New Year Off Right","Bing Crosby",410440,https://open.spotify.com/track/0nQ0CVtojHWXdMVD7UBiqi
+90,"Rockin' Around The Christmas Tree - Recorded at Spotify Studios NYC","Miley Cyrus",409593,https://open.spotify.com/track/5lyikKk6KFWfWCuDDir9Fx
+91,"I Get The Bag (feat. Migos)","Gucci Mane",407641,https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0
+92,Saint,"Huncho Jack",400025,https://open.spotify.com/track/7foypmc7KZyU716Yv63BPe
+93,"Wanted You (feat. Lil Uzi Vert)",NAV,399370,https://open.spotify.com/track/790MhTXPFrYkrqCKvpg4t1
+94,Wolves,"Selena Gomez",391491,https://open.spotify.com/track/7EmGUiUaOSGDnUUQUDrOXC
+95,Betrayed,"Lil Xan",390374,https://open.spotify.com/track/6NWl2m8asvH83xjuXVNsuG
+96,"Dubai Shit","Huncho Jack",388441,https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh
+97,"Sky Walker",Miguel,388009,https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf
+98,"New Rules","Dua Lipa",384252,https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0
+99,"Jingle Bells (feat. The Puppini Sisters)","Michael Bublé",370956,https://open.spotify.com/track/4qBejt9FeqLI9blHI1Nq1x
+100,"Modern Slavery","Huncho Jack",370822,https://open.spotify.com/track/7J6bnDDitOwfelaJNixHhL
+101,"Mary, Did You Know?",Pentatonix,368875,https://open.spotify.com/track/4z8sz6E4YyFuEkv5o7IJni
+102,"White Christmas (Duet With Shania Twain)","Michael Bublé",359984,https://open.spotify.com/track/2gbCG4Rt9984UZ7Tc0dIFd
+103,"Black & Chinese","Huncho Jack",359850,https://open.spotify.com/track/628Ueb4sRiXApObhcU9iPU
+104,"Roll In Peace (feat. XXXTENTACION)","Kodak Black",353792,https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI
+105,"Merry Christmas, Happy Holidays",*NSYNC,352265,https://open.spotify.com/track/15coTBAzEN1bOeipoNDZAR
+106,"Butterfly Effect","Travis Scott",350942,https://open.spotify.com/track/1yxgsra98r3qAtxqiGZPiX
+107,"Jocelyn Flores",XXXTENTACION,349941,https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96
+108,"Rubbin Off The Paint","YBN Nahmir",347339,https://open.spotify.com/track/0taOCiup4HNG9LmbduVlJj
+109,goosebumps,"Travis Scott",339874,https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2
+110,"Meant to Be (feat. Florida Georgia Line)","Bebe Rexha",339668,https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn
+111,"Bad At Love",Halsey,339536,https://open.spotify.com/track/7y9iMe8SOB6z3NoHE2OfXl
+112,"The Way Life Goes (feat. Oh Wonder)","Lil Uzi Vert",336092,https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc
+113,Silence,Marshmello,335917,https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU
+114,"Underneath the Tree","Kelly Clarkson",333358,https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5
+115,"Fuck Love (feat. Trippie Redd)",XXXTENTACION,331986,https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2
+116,Location,Khalid,325192,https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif
+117,"Eye 2 Eye","Huncho Jack",314672,https://open.spotify.com/track/4vwfOiyWxXeEdx4ejAJgdx
+118,Thunder,"Imagine Dragons",312600,https://open.spotify.com/track/0tKcYR2II1VCQWT79i5NrW
+119,"What Lovers Do (feat. SZA)","Maroon 5",310276,https://open.spotify.com/track/3hBBKuWJfxlIlnd9QFoC8k
+120,"Santa Claus Is Comin' to Town - C.W. Post College, Greenvale, NY - December 1975","Bruce Springsteen",307534,https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee
+121,"Cold December Night","Michael Bublé",306729,https://open.spotify.com/track/4FPrAERfkPKOBKrRoyuxLu
+122,"Santa's Coming For Us",Sia,305529,https://open.spotify.com/track/3AlpkljBS1AU7HFVPms8K6
+123,"Drowning (feat. Kodak Black)","A Boogie Wit da Hoodie",304314,https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI
+124,"Let Me Go (with Alesso, Florida Georgia Line & watt)","Hailee Steinfeld",303806,https://open.spotify.com/track/5AEtlRudpgdT5FtNiuly6Y
+125,"Jingle Bells - 1999 - Remaster","Frank Sinatra",301901,https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL
+126,"All I Want For Christmas Is You","Michael Bublé",300796,https://open.spotify.com/track/0xPaZrF25ltzvz1a2Pm5DQ
+127,"Slippery (feat. Gucci Mane)",Migos,300067,https://open.spotify.com/track/6p8NuHm8uCGnn2Dtbtf7zE
+128,"Motorcycle Patches","Huncho Jack",299221,https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1
+129,"End Game","Taylor Swift",294885,https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX
+130,"Perfect Duet (Ed Sheeran & Beyoncé)","Ed Sheeran",294675,https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI
+131,Unforgettable,"French Montana",293192,https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe
+132,"Ghostface Killers","21 Savage",292157,https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub
+133,"Christmas Lights",Coldplay,287367,https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL
+134,"River - Recorded At RAK Studios, London","Sam Smith",286062,https://open.spotify.com/track/29UQV9kjexf0TJAR0UElID
+135,"Rudolph the Rednose Reindeer",DMX,284802,https://open.spotify.com/track/6tN6rdEfm6ZtuKsqpoh3on
+136,"Linus And Lucy","Vince Guaraldi Trio",284504,https://open.spotify.com/track/0MmNrhvLcoWjo7AOr0vgka
+137,GUMMO,6ix9ine,284498,https://open.spotify.com/track/2vjmyyAnDUzilFYxOlTdO1
+138,"Sleigh Ride","The Ronettes",284082,https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ
+139,"I'll Be Home For Christmas - Recorded at Spotify Studios NYC","Demi Lovato",282786,https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP
+140,"What Christmas Means To Me","Stevie Wonder",282408,https://open.spotify.com/track/2qoZNAP3JLyIOtbsPtBjvV
+141,"My Only Wish (This Year)","Britney Spears",279013,https://open.spotify.com/track/7aiVBCp1ibIWE5GeHkbtxr
+142,"Santa Claus Is Coming To Town","Michael Bublé",271768,https://open.spotify.com/track/5Ber68jZ7ytegr2UISEdb7
+143,"Huncho Jack","Huncho Jack",268823,https://open.spotify.com/track/5vuiHi3QYbwcm1OKJOYnrf
+144,"Sorry Not Sorry","Demi Lovato",266644,https://open.spotify.com/track/3m660poUr1chesgkkjQM7P
+145,"Let It Snow! Let It Snow! Let It Snow!","Dean Martin",265820,https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg
+146,"Go Flex","Post Malone",261355,https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ
+147,"Rudolph the Red-Nosed Reindeer","Gene Autry",255732,https://open.spotify.com/track/1dtIaSlyrLI04sqYa8nLyN
+148,"Tell Me You Love Me","Demi Lovato",254879,https://open.spotify.com/track/5Htb1uFQ1KrkFXlefS8oGj
+149,"Shape of You","Ed Sheeran",253736,https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3
+150,"Never Be the Same","Camila Cabello",250622,https://open.spotify.com/track/6VpQdig9pdpTSIFItgkJV5
+151,"I'll Be Home","Meghan Trainor",249101,https://open.spotify.com/track/1hy6kKvsPbv7VTcllCuATC
+152,"Christmas (Baby Please Come Home)","Michael Bublé",246564,https://open.spotify.com/track/66WPXyhXqMlkM1kZhyEXWK
+153,"Stir Fry",Migos,246499,https://open.spotify.com/track/4fndbjoz1qJyK6JcLdKfzm
+154,"Christmas (Baby Please Come Home)","Darlene Love",245925,https://open.spotify.com/track/46pF1zFimM582ss1PrMy68
+155,DNA.,"Kendrick Lamar",244854,https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
+156,Believer,"Imagine Dragons",242768,https://open.spotify.com/track/0CcQNd8CINkwQfe1RDtGV6
+157,"Have Yourself A Merry Little Christmas","Michael Bublé",242425,https://open.spotify.com/track/1DnSNqCQM3LUxqFuXt184Q
+158,"Mask Off",Future,238786,https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx
+159,"This Christmas","Chris Brown",238127,https://open.spotify.com/track/7G0zCTiFXuMsLovPWU3BPQ
+160,"Sauce It Up","Lil Uzi Vert",237954,https://open.spotify.com/track/1uL78kFWxhz3umTMWJu8n5
+161,"Baby, It's Cold Outside (feat. Meghan Trainor)","Brett Eldredge",236709,https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK
+162,"How Long","Charlie Puth",235366,https://open.spotify.com/track/32DGGj6KlNuBr6WaqRxpxi
+163,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)","Machine Gun Kelly",235048,https://open.spotify.com/track/0OI7AFifLSoGzpb8bdBLLV
+164,"Saint Laurent Mask","Huncho Jack",233914,https://open.spotify.com/track/7JGyxh8G8QZnu4AMJuCqlj
+165,"Jingle Bell Rock (Glee Cast Version)","Glee Cast",233765,https://open.spotify.com/track/77GcYr9JP6uvJM0kPa6Nzk
+166,Magnolia,"Playboi Carti",231178,https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl
+167,Redbone,"Childish Gambino",230917,https://open.spotify.com/track/3kxfsdsCpFgN412fpnW85Y
+168,"Rake It Up","Yo Gotti",229971,https://open.spotify.com/track/4knL4iPxPOZjQzTUlELGSY
+169,"White Iverson","Post Malone",229779,https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w
+170,"Can You See - Spotify Singles - Holiday, Recorded at Spotify Studios NYC","Fifth Harmony",229276,https://open.spotify.com/track/6lIob2DRkcnjrymZN1QqU7
+171,"Christmas (Baby Please Come Home)","Mariah Carey",228854,https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN
+172,"O Come, All Ye Faithful",Pentatonix,228020,https://open.spotify.com/track/6o94nmp72lGvcFfaF6dsjZ
+173,Sober,G-Eazy,227247,https://open.spotify.com/track/3qk4wRMDlaeagZGjSYbsOV
+174,"Go Legend (& Metro Boomin)","Big Sean",224963,https://open.spotify.com/track/3wAI7MIQtTgwcRmwchPZBc
+175,"White Christmas - Spotify Singles - Holiday, Recorded at Air Studios, London","George Ezra",223595,https://open.spotify.com/track/7F9oCEKbqjN99cV5HpvYER
+176,"The Race",Tay-K,223298,https://open.spotify.com/track/3wGXyJGsCf1myH5MooQIqE
+177,"Dance of the Sugar Plum Fairy",Pentatonix,221326,https://open.spotify.com/track/0u0TlASkQWH2bGIZRu0HLh
+178,"Baby, It's Cold Outside (Glee Cast Version)","Glee Cast",221193,https://open.spotify.com/track/5ud4C9PMcwOUnkk4AVE25V
+179,"Ice Tray","Quality Control",220007,https://open.spotify.com/track/3wdfLVUhmX64lIyWIIEW8s
+180,"Love Galore",SZA,218125,https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs
+181,"MIC Drop (feat. Desiigner) [Steve Aoki Remix]",BTS,217535,https://open.spotify.com/track/7Ed6BkggCS2KaKY5YlINaF
+182,"New Freezer (feat. Kendrick Lamar)","Rich The Kid",214491,https://open.spotify.com/track/4pYZLpX23Vx8rwDpJCpPTA
+183,"Relationship (feat. Future)","Young Thug",214160,https://open.spotify.com/track/25oOaleife6E2MIKmFkPvg
+184,"Christmas Eve - Recorded at Spotify Studios NYC","Kelly Clarkson",213432,https://open.spotify.com/track/0ezxVlILGg3XiTJONE7PEn
+185,"Mi Gente","J Balvin",212751,https://open.spotify.com/track/2rb5MvYT7ZIxbKW5hfcHx8
+186,"Losin Control",Russ,211758,https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d
+187,"Jingle Bell Rock - Daryl's Version","Daryl Hall & John Oates",211384,https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU
+188,"iSpy (feat. Lil Yachty)",KYLE,211042,https://open.spotify.com/track/2EEeOnHehOozLq4aS0n6SL
+189,Transportin',"Kodak Black",209614,https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn
+190,"Despacito - Remix","Luis Fonsi",209439,https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb
+191,"The Weekend",SZA,209081,https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57
+192,"O Tannenbaum","Vince Guaraldi Trio",208446,https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0
+193,"Have Yourself a Merry Little Christmas","Christina Aguilera",207635,https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl
+194,"Everybody Dies In Their Nightmares",XXXTENTACION,206946,https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7
+195,Go,"Huncho Jack",206175,https://open.spotify.com/track/4RgoqOBE34Q6zZj8K7RUAx
+196,"How U Feel","Huncho Jack",205788,https://open.spotify.com/track/7CWiWkccuRRdrmaW6AjVEf
+197,"Moon Rock","Huncho Jack",204834,https://open.spotify.com/track/7bTH8LgGSwyNNE4r1k95Zp
+198,"Feel It Still","Portugal. The Man",204563,https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK
+199,"Tunnel Vision","Kodak Black",204345,https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4
+200,"Step Into Christmas","Elton John",203971,https://open.spotify.com/track/3YQUpKTmtgPJf8u6ooi9KA
